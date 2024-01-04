@@ -1,0 +1,6 @@
+data/
+.vscode/
+boston-housing-predication.ipynb
+main_data.py
+output*
+test*
